@@ -10,6 +10,7 @@ I'm a software/web application developer with a special interest in developing s
 - ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/TwistedTommy/CheckEmAll) ![GitHub Repo stars](https://img.shields.io/github/stars/TwistedTommy/CheckEmAll) [CheckEmAll](https://github.com/TwistedTommy/CheckEmAll "CheckEmAll") - The Original Automated Dat Checker
 - ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/TwistedTommy/DeheadEmAll) ![GitHub Repo stars](https://img.shields.io/github/stars/TwistedTommy/DeheadEmAll) [DeheadEmAll](https://github.com/TwistedTommy/DeheadEmAll "DeheadEmAll") - The Original Automated ROM Deheaderer
 - ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/TwistedTommy/Files2Folders2Files) ![GitHub Repo stars](https://img.shields.io/github/stars/TwistedTommy/Files2Folders2Files) [Files2Folders2Files](https://github.com/TwistedTommy/Files2Folders2Files "Files2Folders2Files") - The Original Automated Files 2 Folders 2 Files
+- ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/TwistedTommy/HubMembersMod) ![GitHub Repo stars](https://img.shields.io/github/stars/TwistedTommy/HubMembersMod) [HubMembersMod](https://github.com/TwistedTommy/HubMembersMod "HubMembersMod") - The Original Automated SMF AirDC++ Web Client Hub Members Mod
 - ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/TwistedTommy/Serilog.Sinks.LogEmAll) ![GitHub Repo stars](https://img.shields.io/github/stars/TwistedTommy/Serilog.Sinks.LogEmAll) [Serilog.Sinks.LogEmAll](https://github.com/TwistedTommy/Serilog.Sinks.LogEmAll "Serilog.Sinks.LogEmAll") - The Original LogEmAll Logger
 - ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/TwistedTommy/TwistedBlackjack) ![GitHub Repo stars](https://img.shields.io/github/stars/TwistedTommy/TwistedBlackjack) [TwistedBlackjack](https://github.com/TwistedTommy/TwistedBlackjack "TwistedBlackjack") - The Original Twisted Blackjack
 - ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/TwistedTommy/TwistedPoker) ![GitHub Repo stars](https://img.shields.io/github/stars/TwistedTommy/TwistedPoker) [TwistedPoker](https://github.com/TwistedTommy/TwistedPoker "TwistedPoker") - The Original Twisted Poker
@@ -27,7 +28,7 @@ Let's work better together. I am looking to collaborate with like-minded people 
 ## Contact
 GitHub: [https://github.com/TwistedTommy](https://github.com/TwistedTommy "GitHub")  
 ## Disclaimer
-###### Copyright (c) 2000-2022 Twisted Tommy - All Rights Reserved v2022-04-16-00
+###### Copyright (c) 2000-2022 Twisted Tommy - All Rights Reserved v2022-06-16-00
 
 <!---
 TwistedTommy/TwistedTommy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
