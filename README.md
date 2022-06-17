@@ -25,6 +25,11 @@ Let's work better together. I am looking to collaborate with like-minded people 
 - Linguist/Translator
 - Player
 - Tester
+  
+Feel free to:  
+- Fork the repository
+- Branch your repository with a meaningful name related to the changes you are making
+- Create a pull request
 ## Contact
 GitHub: [https://github.com/TwistedTommy](https://github.com/TwistedTommy "GitHub")  
   
