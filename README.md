@@ -27,7 +27,7 @@ Let's work better together. I am looking to collaborate with like-minded people 
 - Tester
 ## Contact
 GitHub: [https://github.com/TwistedTommy](https://github.com/TwistedTommy "GitHub")  
-## Disclaimer
+---
 ###### Copyright (c) 2000-2022 Twisted Tommy - All Rights Reserved v2022-06-16-00
 
 <!---
